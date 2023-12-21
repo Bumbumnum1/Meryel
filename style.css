@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(rgba(100, 100, 102, 0.031),rgba(4, 9, 30, 0)),url("background.png");
+    background-size: cover;
+    background-attachment: fixed;
+}  
+.video{
+    width: 80%;
+    margin: auto;
+    float: right;
+    padding-top: 100px;
+
+}
+.video-col{
+    float: right;
+    width: 664px;
+    flex-basis: 31%;
+    background: #fff3f3;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box; 
+    margin-right: 35px;
+}
+.quote{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    float: right;
+    padding-top: 100px;
+
+}
+.quote-col{
+    float: right;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box; 
+    margin-right: 130px;
+    font-style: italic;
+    margin-top: -50px;
+}
+
+
